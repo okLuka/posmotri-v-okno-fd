@@ -76,8 +76,8 @@ ol {
 .result__video-container {
   grid-area: video;
   width: 710px;
-  max-height: 386px;
-  margin-bottom: 23px;
+  height: 386px;
+  margin-bottom: 16px;
   position: relative;
 }
 
